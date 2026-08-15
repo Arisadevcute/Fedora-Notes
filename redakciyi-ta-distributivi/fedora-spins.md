@@ -28,3 +28,5 @@ Fedora MATE Compiz — ностальгічна збірка на базі fedor
 
 <br>
 
+{% embed url="https://fedoraproject.org/spins/mate/download/" %}
+
