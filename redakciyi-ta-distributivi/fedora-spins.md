@@ -22,7 +22,7 @@ Fedora Cinnamon - це дуже естетична редакція, з відн
 
 ## Fedora MATE+Compiz Spin
 
-Fedora MATE Compiz — ностальгічна збірка на базі fedora, що поєднує класичний інтерфейс MATE (продовження легендарного [GNOME 2](https://en.wikipedia.org/wiki/GNOME_2)) із 3D-ефектами Compiz. Ідеальний вибір для ентузіастів і шанувальників перевірених часом ретро-десктопів.
+Fedora MATE Compiz — ностальгічна збірка на базі fedora, що поєднує класичний інтерфейс MATE (продовження легендарного [GNOME 2](https://en.wikipedia.org/wiki/GNOME_2)) із 3D-ефектами [Compiz](https://en.wikipedia.org/wiki/Compiz). Ідеальний вибір для ентузіастів і шанувальників перевірених часом ретро-десктопів.
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Офіційний сайт <a href="https://mate-desktop.org/">MATE Desktop Environment</a></p></figcaption></figure>
 
