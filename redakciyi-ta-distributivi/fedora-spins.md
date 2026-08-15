@@ -26,7 +26,11 @@ Fedora MATE Compiz — ностальгічна збірка на базі fedor
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Офіційний сайт <a href="https://mate-desktop.org/">MATE Desktop Environment</a></p></figcaption></figure>
 
-<br>
-
 {% embed url="https://fedoraproject.org/spins/mate/download/" %}
+
+## Fedora I3
+
+Fedora i3 — це мінімалістична збірка без звичного графічного середовища (DE). Замість нього тут використовується тайлінговий віконний менеджер i3, який повністю налаштовується через текстові конфігураційні файли.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Офіційний сайт<a href="https://fedoraproject.org/spins/i3/"> Fedora I3 spin</a></p></figcaption></figure>
 
