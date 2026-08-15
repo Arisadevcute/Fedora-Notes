@@ -34,3 +34,4 @@ Fedora i3 — це мінімалістична збірка без звично
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Офіційний сайт<a href="https://fedoraproject.org/spins/i3/"> Fedora I3 spin</a></p></figcaption></figure>
 
+{% embed url="https://fedoraproject.org/spins/i3/download/" %}
