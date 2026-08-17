@@ -51,3 +51,9 @@ Fedora LXDE — це збірка, яка дуже схожа на Fedora LXQt, 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Офіційний сайт <a href="http://www.lxde.org/">LXDE</a></p></figcaption></figure>
 
 {% embed url="https://fedoraproject.org/spins/lxde/download/" %}
+
+## Fedora SOAS
+
+Fedora Sugar on a Stick (SoaS) — це збірка на базі Fedora, яка використовує навчальне середовище Sugar. Вона створена для завантаження безпосередньо з USB-флешки, без зачіпання жорсткого диска, та заповнює файл-менеджер автоматичним «Журналом» активностей замість складних папок, що робить її ідеальною для дітей і роботи на будь-якому ПК.
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Офіційний сайт <a href="https://fedoraproject.org/spins/soas/">Fedora SOAS</a></p></figcaption></figure>
