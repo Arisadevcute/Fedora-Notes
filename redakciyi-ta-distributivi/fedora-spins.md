@@ -1,6 +1,6 @@
 # Fedora Spins
 
-Федора spins — це альтернативні збірки Fedora, які використовують інші середовища робочого столу.
+Федора spins — це альтернативні збірки Fedora, які використовують інші середовища робочого столу.&#x20;
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Офіційний сайт <a href="https://fedoraproject.org/spins/">Fedora Spins</a></p></figcaption></figure>
 
@@ -57,3 +57,13 @@ Fedora LXDE — це збірка, яка дуже схожа на Fedora LXQt, 
 Fedora Sugar on a Stick (SoaS) — це збірка на базі Fedora, яка використовує навчальне середовище Sugar. Вона створена для завантаження безпосередньо з USB-флешки, без зачіпання жорсткого диска, та заповнює файл-менеджер автоматичним «Журналом» активностей замість складних папок, що робить її ідеальною для дітей і роботи на будь-якому ПК.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Офіційний сайт <a href="https://fedoraproject.org/spins/soas/">Fedora SOAS</a></p></figcaption></figure>
+
+{% embed url="https://fedoraproject.org/spins/soas/download/" %}
+
+## Fedora SWAY
+
+Fedora Sway — це мінімалістична збірка Fedora, яка використовує тайлінговий віконний менеджер Sway. Вона аналогічна варіанту з i3, але працює на сучасному протоколі Wayland замість X11. Sway так само споживає мінімум оперативної пам'яті, при цьому забезпечує плавнішу роботу графіки та має сумісний із i3 синтаксис конфігурації.
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Офіційний сайт Fedora Sway</p></figcaption></figure>
+
+{% embed url="https://fedoraproject.org/spins/sway/download/" %}
